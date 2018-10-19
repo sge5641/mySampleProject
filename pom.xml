@@ -16,17 +16,6 @@
 		<url>git@github.com:sge5641/mySampleProject.git</url>
 	        <tag>mySampleProject-1.0.3</tag>
         </scm>
-	<distributionManagement>
-   		<snapshotRepository>
-      			<id>nexus-snapshots</id>
-      			<url>http://10.0.51.99:8081/nexus/content/repositories/snapshots</url>
-   		</snapshotRepository>
-		<repository>
-        		<id>nexus-releases</id>
-        		<url>http://10.0.51.99:8081/nexus/content/repositories/releases/</url>
-    		</repository>
-	</distributionManagement>
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
