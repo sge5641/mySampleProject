@@ -3,7 +3,7 @@
 	<groupId>at.fhv.team2</groupId>
 	<artifactId>mySampleProject</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.4711-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<name>mySampleProject</name>
 	<url>http://maven.apache.org</url>
 	<properties>
@@ -26,6 +26,7 @@
         		<url>http://10.0.51.99:8081/nexus/content/repositories/releases/</url>
     		</repository>
 	</distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
