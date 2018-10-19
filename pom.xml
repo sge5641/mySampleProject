@@ -11,9 +11,9 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<scm>
-		<connection>scm:git:git@github.com:gtonic/mySampleProject.git</connection>
-		<developerConnection>scm:git:git@github.com:gtonic/mySampleProject.git</developerConnection>
-		<url>git@github.com:gtonic/mySampleProject.git</url>
+		<connection>scm:git:git@github.com:sge5641/mySampleProject.git</connection>
+		<developerConnection>scm:git:git@github.com:sge5641/mySampleProject.git</developerConnection>
+		<url>git@github.com:sge5641/mySampleProject.git</url>
 	        <tag>mySampleProject-1.0.3</tag>
         </scm>
 	<distributionManagement>
